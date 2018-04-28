@@ -1,6 +1,7 @@
 #ifndef WAYPOINTS_HPP
 #define WAYPOINTS_HPP
 
+#include <cassert>
 #include <vector>
 #include <functional>
 #include <chrono>

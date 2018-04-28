@@ -1,6 +1,7 @@
 #ifndef PATH_PLANNING_TRAFFIC_HPP
 #define PATH_PLANNING_TRAFFIC_HPP
 
+#include <cassert>
 #include <vector>
 #include "json/json.hpp"
 #include "settings.hpp"

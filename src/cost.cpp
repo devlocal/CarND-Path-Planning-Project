@@ -1,4 +1,5 @@
 #include "cost.hpp"
+#include <cassert>
 
 namespace planner {
 
